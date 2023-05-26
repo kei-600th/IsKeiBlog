@@ -31,6 +31,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ISKEIBLOG }}
-          external_repository: kei-600th/kei-600th.github.io
+          external_repository: kei-600th/IskeiBlog.github.io
           publish_branch: main
           cname: iskeiblog.com
