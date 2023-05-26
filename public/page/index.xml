@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on My New Hugo Site</title>
+    <link>http://example.org/page/</link>
+    <description>Recent content in Pages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Fri, 26 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>テスト投稿</title>
+      <link>http://example.org/page/%E3%83%86%E3%82%B9%E3%83%88%E6%8A%95%E7%A8%BF/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/page/%E3%83%86%E3%82%B9%E3%83%88%E6%8A%95%E7%A8%BF/</guid>
+      <description>皆さん、こんにちは。私の名前は未明です。
+このブログは私のエンジニアリングの旅を記録する場所として開設しました。現在私は、Webエンジニアとしてのキャリアを開始するためのスキルを磨く初学者です。そして、その全ての経過を、このブログで共有したいと考えています。
+なぜこのブログを始めることにしたのか、それにはいくつか理由があります。一つ目は、自分自身の学習過程を記録し、振り返ることで、自己理解を深め、学習の方向性を確認するためです。二つ目の理由は、学習した知識を文章にすることで、理解度を確認し、さらに深めることです。そして三つ目は、同じ道を歩む人たちと経験を共有し、学び合う場所を作ることです。
+私がこのブログを通して達成したい目標は、自分のスキルと知識を育て、エンジニアとしてのキャリアを成功させることです。私はWebエンジニアになるための道のりは難しく、困難な道のりだと理解しています。しかし、私はその挑戦を楽しみにしていますし、このブログがその過程を容易にする道具になることを期待しています。
+この旅を通じて、我々が共に学び、成長し、成功することを願っています。どうぞよろしくお願いします。
+未明</description>
+    </item>
+    
+  </channel>
+</rss>
